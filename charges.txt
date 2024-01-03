@@ -1,0 +1,6 @@
+create customised commands
+add colors customisation
+allow the user to modify the logo
+allow the user to choose whether the .bat will have administrator rights or not
+
+if bugs -> fix them
